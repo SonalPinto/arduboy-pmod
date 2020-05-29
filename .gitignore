@@ -3,6 +3,7 @@
 *.zip
 *.csv
 *.xml
+*.net
 *gerber*
 _autosave-*
 panel
